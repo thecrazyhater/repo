@@ -1,5 +1,8 @@
 <changelog>
 	<changes>
+        <version>0.5<version>
+        <change>Added warning to user when calling from dialer</change>
+        <change>Added Bio-Auth to prevent locking/not allowing hardware inputs</change>
 		<version>0.3</version>
 		<change>Initial Release</change>
 	</changes>

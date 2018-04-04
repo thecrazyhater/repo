@@ -1,7 +1,7 @@
 <package>
 	<id>com.crazyhater.callproxi</id>
 	<name>CallProXI</name>
-	<version>0.3</version>
+	<version>0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Lock your device after a call!</description>
+		<description>Privacy manager for calls.</description>
 		</description>
 	</descriptionlist>
 	<links>
