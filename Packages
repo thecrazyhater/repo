@@ -1,7 +1,7 @@
 Package: com.crazyhater.callproxi
 Name: CallPro
 Depends: mobilesubstrate
-Version: 0.3
+Version: 0.5
 Architecture: iphoneos-arm
 Description: Currently in beta, aspires to be an advanced, fully Bio-Protected call manager for iOS 11! Secures calls when you hand you phone to someone during calls
 Maintainer: Samar
@@ -9,5 +9,5 @@ Author: Samar
 Section: Tweaks
 Filename: ./debs/com.crazyhater.callproxi.deb
 Depiction: https://thecrazyhater.github.io/repo/depicitons/callproxi
-Size: 1344
-MD5sum: 5357d88912d71d57f4a4757f9ed69b18
+Size: 7238
+MD5sum: e1a3de37e482517402f0a3d3204ad69e
